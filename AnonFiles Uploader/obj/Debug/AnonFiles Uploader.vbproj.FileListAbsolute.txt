@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\bin\Debug\AnonFiles Uploader.exe.config
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\bin\Debug\AnonFiles Uploader.exe
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\bin\Debug\AnonFiles Uploader.pdb
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\bin\Debug\AnonFiles Uploader.xml
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles_Uploader.Form1.resources
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles_Uploader.Resources.resources
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.exe
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.xml
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\Desktop File Uploader\obj\Debug\AnonFiles Uploader.pdb
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\bin\Debug\AnonFiles Uploader.exe.config
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\bin\Debug\AnonFiles Uploader.exe
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\bin\Debug\AnonFiles Uploader.pdb
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\bin\Debug\AnonFiles Uploader.xml
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles_Uploader.Form1.resources
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles_Uploader.Resources.resources
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.exe
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.xml
+C:\Users\Administrator\Desktop\FIleUploader-From-Desktop-master\AnonFiles Uploader\obj\Debug\AnonFiles Uploader.pdb
